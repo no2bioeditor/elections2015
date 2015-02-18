@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test_layout
 title: ספירת קופים
 monkeys: 12
 ---
