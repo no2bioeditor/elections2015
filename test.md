@@ -3,7 +3,7 @@ layout: default
 monkeys: 12
 ---
 
-<h1>דף לנסיון</h1>
+#דף לנסיון
 
 קופים: {{monkeys}}
 
