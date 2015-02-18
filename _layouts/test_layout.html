@@ -23,10 +23,12 @@
   <body>
     
     {% if page.monkeys %}
-      <dl class="dl-horizontal">
+    <div style="direction:rtl">
+      <dl>
         <dt>קופים:</dt>
         <dd>{{page.monkeys}}</dd>
       </dl>
+    </div>
     {% endif %}
     
     {{ content }}
